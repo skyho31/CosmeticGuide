@@ -83,16 +83,16 @@ var skinTypeDB = {
 var howToUseDB = [
     {
         "number" : "01",
-        "description" : "이렇게 사용하세요!<br>펭귄을 찾는다",
+        "description" : "처음엔 이렇게 하세요!<br>펭귄을 찾는다",
         "imgSrc" : "http://placehold.it/150x150"
     },
     {
         "number" : "02",
-        "description" : "이렇게 사용하세요!<br>펭귄을 잡는다",
+        "description" : "다음엔 찾은 놈을 향해 달려가요!<br>펭귄을 잡는다",
         "imgSrc" : "http://placehold.it/150x150"
     },{
         "number" : "03",
-        "description" : "이렇게 사용하세요!<br>펭귄을 때린다",
+        "description" : "마지막에는 이렇게 하세요!<br>펭귄을 때린다",
         "imgSrc" : "http://placehold.it/150x150"
     }
 ]
